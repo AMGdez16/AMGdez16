@@ -15,9 +15,9 @@ My goal is to leverage my expertise in IT systems, risk management, and governan
 
 # Project
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Kubernetes and Azure Automation Lab Environment     | <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>|
+| Skill                                                 | Associated Project         |
+|-------------------------------------------------------|----------------------------|
+|  <a href="https://github.com/AMGdez16/Kubernetes-Azure-Automation-Lab.git">Project 1</a>| Kubernetes and Azure Automation Lab Environment|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
