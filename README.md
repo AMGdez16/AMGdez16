@@ -13,13 +13,11 @@ My goal is to leverage my expertise in IT systems, risk management, and governan
 
 
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project]
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+# Project
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>|
+| Kubernetes and Azure Automation Lab Environment     | <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
