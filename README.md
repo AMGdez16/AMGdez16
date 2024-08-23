@@ -18,13 +18,10 @@ My goal is to leverage my expertise in IT systems, risk management, and governan
 | Skill                                                 | Associated Project         |
 |-------------------------------------------------------|----------------------------|
 |<a href="https://github.com/AMGdez16/Kubernetes-Azure-Automation-Lab.git"><img alt="Project 1" src="https://img.shields.io/badge/Project%201-181717?style=for-the-badge&logo=github&logoColor=white" /></a> | Kubernetes and Azure Automation Lab Environment|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| <a href="https://github.com/AMGdez16/Disaster-Recovery-Incident-Management.git"><img alt="Project 3" src="https://img.shields.io/badge/Project%203-181717?style=for-the-badge&logo=github&logoColor=white" /></a> | Disaster Recovery and Incident Management Simulation|
+| <a href="https://github.com/AMGdez16/Security-Tools-Monitoring-Dashboard.git"><img alt="Project 4" src="https://img.shields.io/badge/Project%204-181717?style=for-the-badge&logo=github&logoColor=white" /></a> | Security Tools Implementation and Monitoring Dashboard|
+| <a href="https://github.com/AMGdez16/Cloud-Migration-Strategy.git"><img alt="Project 5" src="https://img.shields.io/badge/Project%205-181717?style=for-the-badge&logo=github&logoColor=white" /></a>        | IT Modernization and Cloud Migration Strategy|
+| <a href="https://github.com/AMGdez16/Windows-Maintenance-Compliance-Checker.git"><img alt="Project 2" src="https://img.shields.io/badge/Project%202-181717?style=for-the-badge&logo=github&logoColor=white" /></a> | Automated Windows System Maintenance and Compliance Checker|
 
 ## Certifications and Training
 <img src="https://img.shields.io/badge/-ITIL%20Foundations-525E71?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-CompTIA%20A%2B-EA3B2D?style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-CompTIA%20Sec%2B-007EAD?style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-CompTIA%20Net%2B-EF4626?style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-PMP%20%7C%20Pursuing-4B0082?style=for-the-badge&logo=PMI&logoColor=white" />
