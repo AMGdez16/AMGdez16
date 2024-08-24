@@ -1,9 +1,7 @@
 # Hello, I'm Ricardo Hernanadez
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:youremail@example.com" target="_blank">
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://drive.google.com/drive/folders/12lZo1FrKTeERD6kbGwsSEbUYPLx0QrCp"><img alt="Resume" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=document&logoColor=white"></a> <a href="mailto:youremail@example.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" />
-</a> <a href="tel:+1234567890" target="_blank">
-    <img src="https://img.shields.io/badge/-Call%20Me-34A853?&style=for-the-badge&logo=telephoneColor=Black &logoColor=white" alt="Contact Number" />
-</a><a href="https://example.com"><img alt="Profile Snapshot" src="https://img.shields.io/badge/Profile_Snapshot-000000?style=for-the-badge&logo=profile&logoColor=white"></a>
+</a> <a href="https://example.com"><img alt="Contact Me" src="https://img.shields.io/badge/Contact_Me-000000?style=for-the-badge&logo=phone&logoColor=white"></a><a href="https://example.com"><img alt="Profile Snapshot" src="https://img.shields.io/badge/Profile_Snapshot-000000?style=for-the-badge&logo=profile&logoColor=white"></a> 
 
 ## Brief Introduction
 Results-oriented Information Security Manager with 10+ years of leadership experience in IT systems, training, and governance compliance. Expertise in managing teams, overseeing complex projects using Agile methodologies, and facilitating professional development. Proven track record of collaborating across diverse groups, leveraging strong interpersonal skills to build cross-functional teams that deliver timely support and high-quality products. Committed to lifelong learning and fostering innovation through empowerment, driving effective solutions.
@@ -13,7 +11,7 @@ My goal is to leverage my expertise in IT systems, risk management, and governan
 
 
 
-## Portfolio
+## [Portfolio](https://drive.google.com/drive/folders/11Tt1BWxP31XAxqvpWQ91B9PmcXbAh_Bx)
 
 | Project                                                 | Project Name       |
 |-------------------------------------------------------|----------------------------|
@@ -23,7 +21,7 @@ My goal is to leverage my expertise in IT systems, risk management, and governan
 | <a href="https://github.com/AMGdez16/Cloud-Migration-Strategy.git"><img alt="Project 4" src="https://img.shields.io/badge/Project%204-181717?style=for-the-badge&logo=github&logoColor=white" /></a>        | IT Modernization and Cloud Migration Strategy|
 | <a href="https://github.com/AMGdez16/Windows-Maintenance-Compliance-Checker.git"><img alt="Project 5" src="https://img.shields.io/badge/Project%205-181717?style=for-the-badge&logo=github&logoColor=white" /></a> | Automated Windows System Maintenance and Compliance Checker|
 
-## Certifications and Training
+## [Certifications and Training](https://drive.google.com/drive/folders/12kxwO5Fax0oIcRvvze1XnWWZvR16WFcZ)
 <img src="https://img.shields.io/badge/-ITIL%20Foundations-525E71?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-CompTIA%20A%2B-EA3B2D?style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-CompTIA%20Sec%2B-007EAD?style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-CompTIA%20Net%2B-EF4626?style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-PMP%20%7C%20Pursuing-4B0082?style=for-the-badge&logo=PMI&logoColor=white" />
 
 ## Skills and Technical Competencies
@@ -40,7 +38,7 @@ My goal is to leverage my expertise in IT systems, risk management, and governan
 <a href="https://example.com"><img alt="Compliance Framework" src="https://img.shields.io/badge/Compliance_Framework-000000?style=for-the-badge&logo=windows&logoColor=white"></a> | `PCI DCS` ` SOC 2` `NIST/NISP` `FISMA` `SOX`|
 <a href="https://example.com"><img alt="Languages" src="https://img.shields.io/badge/Languages-000000?style=for-the-badge&logo=microsoft&logoColor=white"></a> | `English` `Spanish` |
 
-## Professional Tools
+## [Professional Tools](https://drive.google.com/drive/folders/12ll_LogXoucNwgL8MZpLs-QA8eJBty4h)
   <a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=Wireshark&logoColor=black&labelColor=%23ADD8E6&color=%2399CCFF"></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://docs.microsoft.com/powershell/"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"></a>
