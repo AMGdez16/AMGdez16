@@ -26,23 +26,18 @@ My goal is to leverage my expertise in IT systems, risk management, and governan
 ## Certifications and Training
 <img src="https://img.shields.io/badge/-ITIL%20Foundations-525E71?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-CompTIA%20A%2B-EA3B2D?style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-CompTIA%20Sec%2B-007EAD?style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-CompTIA%20Net%2B-EF4626?style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-PMP%20%7C%20Pursuing-4B0082?style=for-the-badge&logo=PMI&logoColor=white" />
 
-</div>
-
-## Projects
-- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
-- Detection 
-### Skills  
-| Projects | Skills/Knowledge Gained | 
-| :--- |:---:|
-| [1](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/1%20-%20Conduct%20an%20Audit) - Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
-| [2](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/2%20-%20Network%20Security) - Network Security | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | 
-| [3](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/3%20-%20Linux%20%26%20SQL) - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
-| [4](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/4%20-%20Assets%20%26%20Threats%20%26%20Vulnerabilities) - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
-| [5](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/5%20-%20Detection%20%26%20Response) - Detection & Response | `Incident Lifecycle`, `Incident Journal` |
-| [6](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/6%20-%20Tcpdump%20%26%20Wireshark) - Tcpdump & Wireshark | `Packet Analyzer` | 
-| [7](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/7%20-%20IDS%20%26%20SIEM) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
-| [8](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/8%20-%20Automation%20with%20Python) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
-
+### Skills and Technical Competencies
+| Category                       | Details | 
+| :---------------------------------------------------------|:----------------------------------:|
+| <a href="https://example.com"><img alt="Projects" src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=world&logoColor=white"></a> | `Managed Cyber Protection`, `Forensic Analysis`, `Developed`, `Risk Visualizations`, `Established SOC`, `Deployed Nessus Agent` |
+| <a href="https://example.com"><img alt="Productivity & Collaboration" src="https://img.shields.io/badge/Productivity_%26_Collaboration-000000?style=for-the-badge&logo=productivity&logoColor=white"></a> | `Microsoft 365 Suite` , `Slack`, `Confluence`, `Jira`, `SharePoint`,| 
+| <a href="https://example.com"><img alt="Programming Language" src="https://img.shields.io/badge/Programming_Language-000000?style=for-the-badge&logo=code&logoColor=white"></a> | `Python`, `PowerShell` | 
+| <a href="https://example.com"><img alt="Operating Systems" src="https://img.shields.io/badge/Operating_Systems-000000?style=for-the-badge&logo=windows&logoColor=white"></a> | `Windows`, ` Kali Linux`, `MacOS`, `iOS`,`Andriod`|
+| <a href="https://example.com"><img alt="Microsoft Security" src="https://img.shields.io/badge/Microsoft_Security-000000?style=for-the-badge&logo=microsoft&logoColor=white"></a> | `Active Directory`, `Group Policy`, `Endpoint Security`, `Defender`, `Identity and Access Management`|
+| <a href="https://example.com"><img alt="Cloud" src="https://img.shields.io/badge/Cloud-000000?style=for-the-badge&logo=world&logoColor=white"></a> | `Azure`, `AWS`, `Virtualization`, ` Containerization`, `API integration`, `Advanced Cloud Security` |
+| <a href="https://example.com"><img alt="PM Methodology" src="https://img.shields.io/badge/PM_%26_Methodology-000000?style=for-the-badge&logo=productivity&logoColor=white"></a> | `Waterfall` , `Agile`|
+| <a href="https://example.com"><img alt="Compliance Framework" src="https://img.shields.io/badge/Compliance_Framework-000000?style=for-the-badge&logo=windows&logoColor=white"></a> | `Windows`, ` Kali Linux`, `MacOS`, `iOS`,`Andriod`|
+| <a href="https://example.com"><img alt="Languages" src="https://img.shields.io/badge/Languages-000000?style=for-the-badge&logo=microsoft&logoColor=white"></a> | `Active Directory`, `Group Policy`, `Splunl`, `Wireshark`, `Identity and Access Management`|
 
   <h2>Tools</h2>
   <a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=Wireshark&logoColor=black&labelColor=%23ADD8E6&color=%2399CCFF"></a>
