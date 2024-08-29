@@ -9,7 +9,12 @@ Results-oriented IT Engineer and Program Manager with 10+ years of leadership ex
 ## Objective
 My goal is to leverage my expertise in IT systems, risk management, and governance compliance to enhance security operations and contribute to proactive defense strategies through engineering or program management.
 
-
+## Short-term Certification Goals (1-6 months)
+1)Cloud+
+2)CySA+
+3)AZ-104
+4)PMP
+5)AI-900
 
 ## [Portfolio](https://drive.google.com/drive/folders/11Tt1BWxP31XAxqvpWQ91B9PmcXbAh_Bx)
 
@@ -34,7 +39,7 @@ My goal is to leverage my expertise in IT systems, risk management, and governan
 | <a href="https://example.com"><img alt="Microsoft Security" src="https://img.shields.io/badge/Microsoft_Security-000000?style=for-the-badge&logo=microsoft&logoColor=white"></a> | `Active Directory` `Group Policy` `Endpoint Security` `Defender` `Identity and Access Management`|
 | <a href="https://example.com"><img alt="Cloud" src="https://img.shields.io/badge/Cloud-000000?style=for-the-badge&logo=world&logoColor=white"></a> | `Azure` `AWS` `Virtualization` ` Containerization` `API integration` `Advanced Cloud Security` |
 | <a href="https://example.com"><img alt="PM Methodology" src="https://img.shields.io/badge/PM_%26_Methodology-000000?style=for-the-badge&logo=productivity&logoColor=white"></a> | `Waterfall` `Agile`|| 
-<a href="https://example.com"><img alt="Additional Proficiencies" src="https://img.shields.io/badge/Additional_Prodiciencies-000000?style=for-the-badge&logo=world&logoColor=white"></a> | `Ethical Hacking` `Digital Forensics and Incident Response (DFIR)` `Splunk` `Wireshack` `PyCharm` `Nessus` `SentinelOne` `Microsoft Power Platform` `SQL` `ServiceNow``AI/Language Models`| 
+<a href="https://example.com"><img alt="Additional Proficiencies" src="https://img.shields.io/badge/Additional_Proficiencies-000000?style=for-the-badge&logo=world&logoColor=white"></a> | `Ethical Hacking` `Digital Forensics and Incident Response (DFIR)` `Splunk` `Wireshack` `PyCharm` `Nessus` `SentinelOne` `Microsoft Power Platform` `SQL` `ServiceNow``AI/Language Models`| 
 <a href="https://example.com"><img alt="Compliance Framework" src="https://img.shields.io/badge/Compliance_Framework-000000?style=for-the-badge&logo=windows&logoColor=white"></a> | `PCI DCS` ` SOC 2` `NIST/NISP` `FISMA` `SOX`|
 <a href="https://example.com"><img alt="Languages" src="https://img.shields.io/badge/Languages-000000?style=for-the-badge&logo=microsoft&logoColor=white"></a> | `English` `Spanish` |
 
