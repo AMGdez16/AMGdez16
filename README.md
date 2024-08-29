@@ -11,7 +11,8 @@ My goal is to leverage my expertise in IT systems, risk management, and governan
 
 ## Brand
 A productive high performing leader that builds efficient and cohesive cross-functional teams while embracing diversity instead of tip-toeing around it. Very strong belief in providing value and impact to an organization while investing in the growth and professional development of others and myself. 
-"If you want to go fast, go alone. If you want to go far, go together"- African Proverb
+ 
+ "If you want to go fast, go alone. If you want to go far, go together"- African Proverb
 
 ## Short-term Project, Study, & Certification Goals (1-6 months)
 1) Cloud+
