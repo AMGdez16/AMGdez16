@@ -9,12 +9,12 @@ Results-oriented IT Engineer and Program Manager with 10+ years of leadership ex
 ## Objective
 My goal is to leverage my expertise in IT systems, risk management, and governance compliance to enhance security operations and contribute to proactive defense strategies through engineering or program management.
 
-## Short-term Certification Goals (1-6 months)
-1)Cloud+
-2)CySA+
-3)AZ-104
-4)PMP
-5)AI-900
+## Short-term Project, Study, & Certification Goals (1-6 months)
+1) Cloud+
+2) CySA+
+3) AZ-104
+4) PMP
+5) AI-900
 
 ## [Portfolio](https://drive.google.com/drive/folders/11Tt1BWxP31XAxqvpWQ91B9PmcXbAh_Bx)
 
