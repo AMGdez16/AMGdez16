@@ -10,7 +10,7 @@ Results-oriented IT Engineer and Program Manager with 10+ years of leadership ex
 My goal is to leverage my expertise in IT systems, risk management, and governance compliance to enhance security operations and contribute to proactive defense strategies through engineering or program management.
 
 ## Brand
-A productive high performing leader that builds efficient and cohesive cross-functional teams while embracing diversity instead of tip-toeing around it. Very strong belief in providing value and impact to an organization while investing in growth and professional development of others and myself.
+A productive high performing leader that builds efficient and cohesive cross-functional teams while embracing diversity instead of tip-toeing around it. Very strong belief in providing value and impact to an organization while investing in the growth and professional development of others and myself.
 
 ## Short-term Project, Study, & Certification Goals (1-6 months)
 1) Cloud+
