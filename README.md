@@ -4,10 +4,10 @@
 </a> <a href="https://example.com"><img alt="Contact Me" src="https://img.shields.io/badge/Contact_Me-000000?style=for-the-badge&logo=phone&logoColor=white"></a><a href="https://example.com"><img alt="Profile Snapshot" src="https://img.shields.io/badge/Profile_Snapshot-000000?style=for-the-badge&logo=profile&logoColor=white"></a> 
 
 ## Brief Introduction
-Results-oriented Information Security Manager with 10+ years of leadership experience in IT systems, training, and governance compliance. Expertise in managing teams, overseeing complex projects using Agile methodologies, and facilitating professional development. Proven track record of collaborating across diverse groups, leveraging strong interpersonal skills to build cross-functional teams that deliver timely support and high-quality products. Committed to lifelong learning and fostering innovation through empowerment, driving effective solutions.
+Results-oriented IT Engineer and Program Manager with 10+ years of leadership experience in IT systems administration, training, and customer support. Expertise in managing teams, overseeing complex projects using Agile methodologies, and facilitating professional development. Proven track record of collaborating across diverse groups, leveraging strong interpersonal skills to build cross-functional teams that deliver timely support and design high-quality products. Committed to lifelong learning and fostering innovation through empowerment, driving effective solutions.
 
 ## Objective
-My goal is to leverage my expertise in IT systems, risk management, and governance compliance to enhance security operations and contribute to proactive defense strategies.
+My goal is to leverage my expertise in IT systems, risk management, and governance compliance to enhance security operations and contribute to proactive defense strategies through engineering or program management.
 
 
 
